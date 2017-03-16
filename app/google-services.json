@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228679227179",
+    "firebase_url": "https://appster-45f45.firebaseio.com",
+    "project_id": "appster-45f45",
+    "storage_bucket": "appster-45f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228679227179:android:c4d1a8a1c98e58c0",
+        "android_client_info": {
+          "package_name": "pack.sebinsunny.com.appster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228679227179-91rc4m5dsbcmtr1jr0925o6qgds8vbd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pack.sebinsunny.com.appster",
+            "certificate_hash": "17eb27655cc6c5edc1860f5348b7503dc579427a"
+          }
+        },
+        {
+          "client_id": "228679227179-hu3ko6lbm22uonc9e99g9sb92r8948oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyvxF0HLK18fi1g6AtEcr7F-SDuWCZvE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228679227179-hu3ko6lbm22uonc9e99g9sb92r8948oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
